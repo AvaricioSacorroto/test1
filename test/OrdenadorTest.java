@@ -87,11 +87,11 @@ public class OrdenadorTest {
     /**
      * Test of mostrarGarantia method, of class Ordenador.
      */
-    @Test
-    public void testMostrarGarantia() {
-        System.out.println("mostrarGarantia");
-        Ordenador.mostrarGarantia();
-        // TODO review the generated test code and remove the default call to fail.
-        fail("The test case is a prototype.");
-    }
+//    @Test
+//    public void testMostrarGarantia() {
+//        System.out.println("mostrarGarantia");
+//        Ordenador.mostrarGarantia();
+//        // TODO review the generated test code and remove the default call to fail.
+//        fail("The test case is a prototype.");
+//    }
 }
